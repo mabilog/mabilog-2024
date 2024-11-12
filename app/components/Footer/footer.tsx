@@ -1,4 +1,3 @@
-import GetInTouch from "../GetInTouch/GetInTouch";
 import styles from "./footer.module.scss";
 
 import React from "react";

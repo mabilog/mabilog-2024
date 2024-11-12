@@ -1,4 +1,3 @@
-import { StaticImageData } from "next/image";
 import { Molsoft, Ssense, Walter } from "../svg";
 
 export interface Company {

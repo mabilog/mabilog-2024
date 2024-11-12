@@ -6,7 +6,8 @@ const Works = () => {
     <div className={styles.works}>
       <div className={styles.works__container}>
         <h2>
-          If you haven't checked my homepage, here's a quick facts summary:
+          If you haven&apos;t checked my homepage, here&apos;s a quick facts
+          summary:
         </h2>
         <p>
           🗓 I have experience working across the full stack, with a strong focus
